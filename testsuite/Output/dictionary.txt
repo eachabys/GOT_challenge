@@ -1,0 +1,13 @@
+edition 0
+shakespeare's 1
+own 2
+my 3
+first 4
+project 5
+text 6
+folio 7
+plays 8
+of 9
+gutenberg's 10
+etext 11
+
